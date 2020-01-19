@@ -19,11 +19,10 @@ But in relation to romantic relationships, when things aren't looking too good, 
 
 Based on the few stories I've read, giving up (not that it's crossed my mind!) seems to be the one thing that people regret the most* and they tend to wish that they tried harder to love their former partners. Certainly too little, too late; take what you've learnt and apply it to the next relationship, when you're ready.
 
-{ % include info.html text="Minimizing regret seems to be essential to being happy, so I suppose, if happiness is the goal, then this is the logical thing to do." %}
+{% include info.html text="Minimizing regret seems to be essential to being happy, so I suppose, if happiness is the goal, then this is the logical thing to do." %}
 
 {% include alert.html text="Is happiness the goal though?" %}
 
-![KapilGuptaMD Screengrab](/images/KapilGupta.PNG)
-Format: ![Food for thought]
+![KapilGuptaMD Screengrab - Food for Thought](/images/KapilGupta.PNG)
 
 That last line hit me. In valuing happiness, and striving for it, we are detracted/detached from the moment. The moment/present is thus truly lost. In viewing life as a string of experiences, what is life then, if we aren't present to truly experience these moments?
