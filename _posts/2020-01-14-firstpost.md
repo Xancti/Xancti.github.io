@@ -10,9 +10,9 @@ Here's one:
 
 Activity To-Do | Notes
 -------------- | -----
-Buy BitCoin [Incomplete] | Rationale: Possibility of BitCoin increasing by 100% due to halvening; not something that I can foresee with most stocks. Certainly possible for Marijuana shares, but somewhat tenuous. Even with NVDA, we're reasonably looking at a 20% increase from the current of 250.
-Create BinanceSG Account [Incomplete] | Necessary for purchase of BTC; will most likely need to link Xfers
-Shift funds out of Trading Account [Incomplete] | Figure out how much needs to be moved
+Buy BitCoin **[Incomplete]** | Rationale: Possibility of BitCoin increasing by 100% due to halvening; not something that I can foresee with most stocks. Certainly possible for Marijuana shares, but somewhat tenuous. Even with NVDA, we're reasonably looking at a 20% increase from the current of 250.
+Create BinanceSG Account **[Incomplete]** | Necessary for purchase of BTC; will most likely need to link Xfers
+Shift funds out of Trading Account **[Incomplete]** | Figure out how much needs to be moved
 
 ## An unrelated note
 But in relation to romantic relationships, when things aren't looking too good, I think the general solution is to love harder and commit more.
@@ -25,4 +25,4 @@ Based on the few stories I've read, giving up (not that it's crossed my mind!) s
 
 ![KapilGuptaMD Screengrab - Food for Thought](/images/KapilGupta.PNG)
 
-That last line hit me. In valuing happiness, and striving for it, we are detracted/detached from the moment. The moment/present is thus truly lost. In viewing life as a string of experiences, what is life then, if we aren't present to truly experience these moments?
+Tell me that last line doesn't hit you.
