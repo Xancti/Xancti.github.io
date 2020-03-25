@@ -10,9 +10,9 @@ Here's one:
 
 Activity To-Do | Notes
 -------------- | -----
-Buy BitCoin **[Incomplete]** | Rationale: Possibility of BitCoin increasing by 100% due to halvening; not something that I can foresee with most stocks. Certainly possible for Marijuana shares, but somewhat tenuous. Even with NVDA, we're reasonably looking at a 20% increase from the current of 250.
-Create BinanceSG Account **[Incomplete]** | Necessary for purchase of BTC; will most likely need to link Xfers
-Shift funds out of Trading Account **[Incomplete]** | Figure out how much needs to be moved
+Buy BitCoin **[Complete]** | Rationale: Possibility of BitCoin increasing by 100% due to halvening; not something that I can foresee with most stocks. Certainly possible for Marijuana shares, but somewhat tenuous. Even with NVDA, we're reasonably looking at a 20% increase from the current of 250.
+Create BinanceSG Account **[Complete]** | Necessary for purchase of BTC; will most likely need to link Xfers
+Shift funds out of Trading Account **[Complete]** | Figure out how much needs to be moved
 
 ## An unrelated note
 But in relation to romantic relationships, when things aren't looking too good, I think the general solution is to love harder and commit more.
